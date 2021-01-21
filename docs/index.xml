@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Novafun</title>
-    <link>https://github.com/novafun/blog.git/</link>
+    <link>https://novafun.github.io/blog/</link>
     <description>Recent content on Novafun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Jan 2021 02:56:27 -0400</lastBuildDate><atom:link href="https://github.com/novafun/blog.git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jan 2021 02:56:27 -0400</lastBuildDate><atom:link href="https://novafun.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://github.com/novafun/blog.git/posts/my-first-post/</link>
+      <link>https://novafun.github.io/blog/posts/my-first-post/</link>
       <pubDate>Thu, 21 Jan 2021 02:56:27 -0400</pubDate>
       
-      <guid>https://github.com/novafun/blog.git/posts/my-first-post/</guid>
+      <guid>https://novafun.github.io/blog/posts/my-first-post/</guid>
       <description>Something</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://github.com/novafun/blog.git/archives/</link>
+      <link>https://novafun.github.io/blog/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/novafun/blog.git/archives/</guid>
+      <guid>https://novafun.github.io/blog/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://github.com/novafun/blog.git/search/</link>
+      <link>https://novafun.github.io/blog/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/novafun/blog.git/search/</guid>
+      <guid>https://novafun.github.io/blog/search/</guid>
       <description></description>
     </item>
     

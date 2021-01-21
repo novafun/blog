@@ -1,4 +1,4 @@
-baseURL: "https://github.com/novafun/blog.git"
+baseURL: "https://novafun.github.io/blog/"
 title: Novafun
 paginate: 5
 theme: papermod
