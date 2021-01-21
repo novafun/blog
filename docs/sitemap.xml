@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/novafun/blog.git/posts/my-first-post/</loc>
+    <lastmod>2021-01-21T02:56:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/novafun/blog.git/</loc>
+    <lastmod>2021-01-21T02:56:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/novafun/blog.git/posts/</loc>
+    <lastmod>2021-01-21T02:56:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/novafun/blog.git/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/novafun/blog.git/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/novafun/blog.git/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/novafun/blog.git/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/novafun/blog.git/tags/</loc>
+  </url>
+  
+</urlset>

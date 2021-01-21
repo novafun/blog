@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com"
+baseURL: "https://github.com/novafun/blog.git"
 title: Novafun
 paginate: 5
 theme: papermod
@@ -9,6 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+publishDir: docs
 # googleAnalytics: UA-123-45
 
 minify:
@@ -54,8 +55,6 @@ params:
     displayFullLangName: true
     # comments: false
     images: ["papermod-cover.png"]
-
-    publishDir: docs
 
     profileMode:
         enabled: false
